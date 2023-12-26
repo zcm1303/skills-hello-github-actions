@@ -21,7 +21,7 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Step 3: Add actions to your workflow file
 
-_Nice work adding a job to your workflow! :dancer:_
+_Nice work adding a job to your workflow! :dancer:_dancer:_dancer:_dancer:_dancer:_
 
 Workflows have jobs, and jobs have steps. So now we'll add steps to your workflow.
 
